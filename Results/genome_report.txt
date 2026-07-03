@@ -1,0 +1,35 @@
+Micobial Genome Explorer Report
+================================
+
+Sequence ID: U00096.2
+Genome length: 16870 base pairs
+GC content: 51.67%
+
+Nucleotide Counts:
+A: 4280
+G: 4514
+C: 4202
+T: 3874
+
+Open Reading Frames found: 147
+
+ORF 1: Start 337, End 2799, Length 2463, Frame 1
+ORF 2: Start 484, End 2799, Length 2316, Frame 1
+ORF 3: Start 721, End 2799, Length 2079, Frame 1
+ORF 4: Start 736, End 2799, Length 2064, Frame 1
+ORF 5: Start 886, End 2799, Length 1914, Frame 1
+ORF 6: Start 895, End 2799, Length 1905, Frame 1
+ORF 7: Start 1081, End 2799, Length 1719, Frame 1
+ORF 8: Start 1099, End 2799, Length 1701, Frame 1
+ORF 9: Start 1279, End 2799, Length 1521, Frame 1
+ORF 10: Start 1285, End 2799, Length 1515, Frame 1
+ORF 11: Start 1309, End 2799, Length 1491, Frame 1
+ORF 12: Start 1318, End 2799, Length 1482, Frame 1
+ORF 13: Start 1327, End 2799, Length 1473, Frame 1
+ORF 14: Start 1351, End 2799, Length 1449, Frame 1
+ORF 15: Start 1456, End 2799, Length 1344, Frame 1
+ORF 16: Start 1552, End 2799, Length 1248, Frame 1
+ORF 17: Start 1708, End 2799, Length 1092, Frame 1
+ORF 18: Start 2092, End 2799, Length 708, Frame 1
+ORF 19: Start 2224, End 2799, Length 576, Frame 1
+ORF 20: Start 2287, End 2799, Length 513, Frame 1
