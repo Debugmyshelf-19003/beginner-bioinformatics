@@ -1,0 +1,15 @@
+Micobial Genome Explorer Report
+================================
+
+Sequence ID: U00096.3
+Genome length: 350 base pairs
+GC content: 42.86%
+
+Nucleotide Counts:
+A: 117
+G: 71
+C: 79
+T: 83
+
+Open Reading Frames found: 0
+
