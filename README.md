@@ -20,9 +20,9 @@ DNA sequence analysis is a core skill in bioinformatics. This project helped me 
 - Python
 - FASTA format
 - GitHub
+- Visual Studio Code
 
 ## Future Improvements
 - Add charts for nucleotide frequency
 - Analyze multiple FASTA sequences
 - Use public NCBI datasets
-- Add Jupyter Notebook explanations
